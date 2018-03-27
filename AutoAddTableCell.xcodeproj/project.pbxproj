@@ -14,6 +14,7 @@
 		AF751456206A0903008D4E4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF751454206A0903008D4E4D /* LaunchScreen.storyboard */; };
 		AF751461206A0903008D4E4D /* AutoAddTableCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF751460206A0903008D4E4D /* AutoAddTableCellTests.swift */; };
 		AF75146C206A0903008D4E4D /* AutoAddTableCellUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF75146B206A0903008D4E4D /* AutoAddTableCellUITests.swift */; };
+		AF75147A206A1068008D4E4D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF751479206A1068008D4E4D /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AF751467206A0903008D4E4D /* AutoAddTableCellUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoAddTableCellUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF75146B206A0903008D4E4D /* AutoAddTableCellUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutoAddTableCellUITests.swift; sourceTree = "<group>"; };
 		AF75146D206A0904008D4E4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF751479206A1068008D4E4D /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				AF75144B206A0903008D4E4D /* AppDelegate.swift */,
 				AF75144D206A0903008D4E4D /* ViewController.swift */,
+				AF751479206A1068008D4E4D /* TableViewCell.swift */,
 				AF75144F206A0903008D4E4D /* Main.storyboard */,
 				AF751452206A0903008D4E4D /* Assets.xcassets */,
 				AF751454206A0903008D4E4D /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AF75147A206A1068008D4E4D /* TableViewCell.swift in Sources */,
 				AF75144E206A0903008D4E4D /* ViewController.swift in Sources */,
 				AF75144C206A0903008D4E4D /* AppDelegate.swift in Sources */,
 			);
