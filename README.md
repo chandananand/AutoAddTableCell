@@ -1,6 +1,6 @@
 # AutoAddTableCell
 
-[![Screen_Shot_2018-03-27_at_1.56.29_PM.png](https://s31.postimg.org/xysj4cxvv/Screen_Shot_2018-03-27_at_1.56.29_PM.png)](https://postimg.org/image/noq454807/)
+[![Screen-Shot-2018-03-27-at-1-56-29-PM.png](https://i.postimg.cc/Qd7NR6Wj/Screen-Shot-2018-03-27-at-1-56-29-PM.png)](https://postimg.cc/dhqKCjBf)
 
     @IBAction func startClicked(_ sender: Any) {
         if timer.isValid {
